@@ -57,7 +57,7 @@ Le bot Gestion de 4LC
 
 1. **Cloner le projet ou extraire l'archive :**
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone <https://github.com/naxz404/4LC-PROTECT>
    cd 4LC-PROTECT
    ```
 
