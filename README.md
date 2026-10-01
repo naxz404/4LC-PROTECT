@@ -31,14 +31,14 @@ Le bot Gestion de 4LC
 
 ```text
 .
-├── Commands/          # Commandes du bot (Moderation, Admin, Utility, Tickets)
-├── Events/            # Événements Discord.js (ready, messageCreate, guildMemberAdd...)
-├── ProtectCore/       # Moteur principal de sécurité et gestion des logs
-├── ProtectModules/    # Modules de protection spécifiques (Anti-Raid, Captcha, Anti-Spam...)
-├── Database/          # Gestion du stockage des données (configuration, sanctions, etc.)
-├── index.js           # Point d'entrée principal de l'application
-├── config.json        # Fichier de configuration globale
-└── package.json       # Dépendances Node.js
+├── Commands/           Commandes du bot (Moderation, Admin, Utility, Tickets)
+├── Events/             Événements Discord.js (ready, messageCreate, guildMemberAdd...)
+├── ProtectCore/        Moteur principal de sécurité et gestion des logs
+├── ProtectModules/     Modules de protection spécifiques (Anti-Raid, Captcha, Anti-Spam...)
+├── Database/           Gestion du stockage des données (configuration, sanctions, etc.)
+├── index.js            Point d'entrée principal de l'application
+├── config.json         Fichier de configuration globale
+└── package.json        Dépendances Node.js
 ```
 
 ---
